@@ -39,7 +39,7 @@ GROQ_API_KEY=your_api_key_here
 ▶️ Installation & Run
 
 1️⃣ Clone Repository
-git clone https://github.com/your-username/smart-info-finder.git
+git clone git clone https://github.com/kaushik99084/Smartinfofinder.git
 cd smart-info-finder
 2️⃣ Install Dependencies
 pip install -r requirements.txt
